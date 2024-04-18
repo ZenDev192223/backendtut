@@ -1,0 +1,17 @@
+{
+  "name": "ytlite",
+  "version": "1.0.0",
+  "description": "a app similar to yt and x",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "javascript",
+    "and",
+    "express",
+    "js"
+  ],
+  "author": "Zen Dev",
+  "license": "ISC"
+}
